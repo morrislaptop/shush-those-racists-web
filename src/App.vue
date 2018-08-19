@@ -33,7 +33,7 @@ export default {
     },
 
     emailUrl () {
-      return `mailto:?subject=${process.env.VUE_APP_SHARE_URL}&body=Tired of racist pollies like Bob Katter, Fraser Anning and Pauline Hanson making noise and filling up your feed? Shushthoseracists.org #Shushthoseracists`
+      return `mailto:?subject=It’s time to shush those racist Australian politicians&body=Tired of racist pollies like Bob Katter, Fraser Anning and Pauline Hanson making noise and filling up your feed? Shushthoseracists.org #Shushthoseracists`
     },
 
     extUrl () {
