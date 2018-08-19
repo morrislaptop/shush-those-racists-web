@@ -29,11 +29,11 @@ export default {
     },
 
     twitterUrl () {
-      return `https://twitter.com/intent/tweet?url=${process.env.VUE_APP_SHARE_URL}`
+      return `https://twitter.com/intent/tweet?text=Tired of racist pollies like Bob Katter, Fraser Anning and Pauline Hanson making noise and filling up your feed? Shushthoseracists.org&hashtags=Shushthoseracists&url=${process.env.VUE_APP_SHARE_URL}`
     },
 
     emailUrl () {
-      return `mailto:?subject=${process.env.VUE_APP_SHARE_URL}`
+      return `mailto:?subject=${process.env.VUE_APP_SHARE_URL}&body=Tired of racist pollies like Bob Katter, Fraser Anning and Pauline Hanson making noise and filling up your feed? Shushthoseracists.org #Shushthoseracists`
     },
 
     extUrl () {
