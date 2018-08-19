@@ -14,7 +14,7 @@
       <p class="mb-4"><img alt="Shush Those Racists" src="./assets/shush.png"></p>
       <p class="mb-4 font-lato text-center tracking-wide font-bold text-white">Tired of racist Pollies like Bob Katter, Fraser Anning and Pauline Hanson making noise and filling up your feed?  Now you can shush those racists!</p>
       <p class="mb-8 font-lato text-center tracking-wide font-bold text-white">Shush Those Racists is a browser extension that replaces the names of our racist Politicians with colourful one liners, created by regular, non-racist Australians like you.</p>
-      <p class="mb-8 text-2xl font-heavy text-white">Got a witty line? We want to hear it. <a href="https://shushthoseracists.typeform.com/to/Z4sjSJ">Submit here</a>.</p>
+      <p class="mb-8 text-2xl font-heavy text-white">Got a witty line? We want to hear it. <a class="text-white underline" href="https://shushthoseracists.typeform.com/to/Z4sjSJ">Submit here</a>.</p>
       <p class="mb-8 text-2xl font-heavy text-white">#shushthoseracists</p>
       <a :href="extUrl" class="inline-block uppercase text-red-orange p-4 tracking-wide font-black bg-white">Install in Chrome</a>
     </div>
